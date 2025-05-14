@@ -1,0 +1,40 @@
+html{
+
+height:100%;
+width:100%;
+
+}
+
+body{
+background:#90e0ef;
+color:#588157;
+
+}
+ nav{
+background:#14213d;
+color:#fca311;
+
+}
+
+h1{
+background:#31572c;
+color:#ecf39e;
+
+}
+
+footer{
+background:#a3b18a;
+color:#d4ff00;
+}
+
+li{
+	list-style:none;
+	display: inline-block;
+	marlin: 20px;
+	font-size: 20px:
+}
+
+img{
+	width:260px;
+
+}
